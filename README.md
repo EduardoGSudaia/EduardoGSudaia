@@ -18,11 +18,13 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<br/>
 
-<a href="https://github.com/EduardoGSudaia" title="Perfil do Eduardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoGSudaia&theme=dracula&show_icons=true" />
-</a>
+## Meu GitHub
+<img src="https://komarev.com/ghpvc/?username=EduardoGSudaia&label=Visualizações+de+perfil&style=flat-square&color=grey" alt="EduardoGSudaia" />
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGSudaia&layout=compact" alt="EduardoGSudaia" />
+     <img src="https://github-readme-stats.vercel.app/api?username=EduardoGSudaia&show_icons=true" alt="EduardoGSudaia" />
+</p>
 
 ## Onde me encontrar
 
