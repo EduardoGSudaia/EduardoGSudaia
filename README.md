@@ -28,4 +28,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-EduardoSudaia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/eduardo-sudaia-5934742a1)](https://br.linkedin.com/in/eduardo-sudaia-5934742a1)
 [![Gmail Badge](https://img.shields.io/badge/-dusudaia@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dusudaia@hotmail.com)](mailto:dusudaia@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/EduardoGSudaia?label=follow&style=social)]((https://github.com/EduardoGSudaia/EduardoGSudaia))
+[![GitHub](https://img.shields.io/github/followers/EduardoGSudaia?label=follow&style=social)](https://github.com/EduardoGSudaia/EduardoGSudaia)
