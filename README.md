@@ -1,9 +1,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Engenharia da Computação} na {Universidade Tecnológica Federal do Paraná}.
-- 💼 Trabalhando como {Estágiario de programação BackEnd em C#} na {Bredas}.
-- 🌱 Aprendendo mais sobre {Inteligencia artificial e FrontEnd}.
+- 🎓 Estudando Engenharia da Computação na Universidade Tecnológica Federal do Paraná.
+- 💼 Trabalhando como Estágiario de programação BackEnd em C# na Bredas.
+- 🌱 Aprendendo mais sobre Inteligencia artificial e FrontEnd.
 
 ## Minhas Skills
 
