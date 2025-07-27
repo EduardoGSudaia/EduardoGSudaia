@@ -1,23 +1,17 @@
 ## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia da Computação na Universidade Tecnológica Federal do Paraná.
-- 💼 Trabalhando como Desenvolver C#/.Net na Bredas
-- 🌱 Aprendendo mais sobre Inteligencia artificial e FrontEnd (Escrevendo TCC sobre reconhecimento de doenças em laranjas por meio de CNN em python).
+- 🎓 Formado em Engenharia da Computação Pela Universidade Tecnológica Federal do Paraná.
+- 💼 Atuando como desenvolvedor C#/.NET na BREDAS SISTEMAS, com foco no ERP VendaSimples.
+- 🛠 Aplicando conceitos de Microservices, REST e DDD.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Meu GitHub
 <img src="https://komarev.com/ghpvc/?username=EduardoGSudaia&label=Visualizações+de+perfil&style=flat-square&color=grey" alt="EduardoGSudaia" />
